@@ -1,12 +1,12 @@
 [
-  {"name": "Pick apples", "emoji": "🍎", "icon": "🧺"},
-  {"name": "Clean the house", "emoji": "🧹", "icon": "🧽"},
-  {"name": "Drive a car", "emoji": "🚗", "icon": "🛣️"},
-  {"name": "Cook a meal", "emoji": "🍳", "icon": "👨‍🍳"},
-  {"name": "Diagnose a patient", "emoji": "🩺", "icon": "🧬"},
-  {"name": "Write a poem", "emoji": "📜", "icon": "✍️"},
-  {"name": "Paint a picture", "emoji": "🎨", "icon": "🖌️"},
-  {"name": "Compose music", "emoji": "🎼", "icon": "🎵"},
-  {"name": "Offer emotional support", "emoji": "🧠", "icon": "🫂"},
-  {"name": "Spend time with your children", "emoji": "👨‍👧‍👦", "icon": "🧸"}
+  { "name": "Pick apples", "emoji": "🍎", "icon": "🧺" },
+  { "name": "Clean the house", "emoji": "🧹", "icon": "🧽" },
+  { "name": "Drive a car", "emoji": "🚗", "icon": "🛣️" },
+  { "name": "Cook a meal", "emoji": "🍳", "icon": "👨‍🍳" },
+  { "name": "Diagnose a patient", "emoji": "🩺", "icon": "🧬" },
+  { "name": "Write a poem", "emoji": "📜", "icon": "✍️" },
+  { "name": "Paint a picture", "emoji": "🎨", "icon": "🖌️" },
+  { "name": "Compose music", "emoji": "🎼", "icon": "🎵" },
+  { "name": "Offer emotional support", "emoji": "🧠", "icon": "🫂" },
+  { "name": "Spend time with your children", "emoji": "👨‍👧‍👦", "icon": "🧸" }
 ]
